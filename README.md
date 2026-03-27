@@ -58,3 +58,4 @@ Notes:
 - Optional: Use the included fix_bt.sh script to restore hci0 if it disappears
 - This repository is intended as documentation / preparation, not a guaranteed permanent fix
 - Goal: save others time trying to figure out firmware and driver setup
+- I have also uploaded a script that performs the respective steps, but you will need to adjust the path to the firmware yourself.

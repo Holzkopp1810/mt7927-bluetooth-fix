@@ -50,6 +50,7 @@ python extract_firmware.py mtkbt.dat BT_RAM_CODE_MT6639_2_1_hdr.bin
 
 sudo mkdir -p /lib/firmware/mediatek/mt6639
 sudo cp BT_RAM_CODE_MT6639_2_1_hdr.bin /lib/firmware/mediatek/mt6639/
+
 sudo cp BT_RAM_CODE_MT6639_2_1_hdr.bin /lib/firmware/mediatek/
 
 4. Install patched driver

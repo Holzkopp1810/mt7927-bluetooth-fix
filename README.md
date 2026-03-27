@@ -1,6 +1,3 @@
-# mt7927-bluetooth-fix
-MT7927 / MT6639 Bluetooth fix for Linux (firmware + driver workaround)
-
 # MT7927 / MT6639 Bluetooth Fix (Linux)
 
 Working fix for MediaTek MT7927 (MT6639) Bluetooth not working on Linux.

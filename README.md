@@ -70,6 +70,8 @@ Notes:
 - Without patched driver this usually does NOT work
 - Linux firmware package does not include correct MT6639 firmware (yet)
 - Windows driver contains required firmware
+- Known issue: MT7927 / MT6639 Bluetooth is not fully supported in current Linux kernels
 
 Final:
 This took way too long to figure out, posting here to save others time.
+
